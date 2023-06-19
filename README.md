@@ -8,8 +8,6 @@
 > Shangzhan Zhang, Sida Peng, Tianrun Chen, Linzhan Mou, Haotong Lin, Kaicheng Yu, Yiyi Liao, Xiaowei Zhou\
 > CVPR 2023
 
-## Installation
-
 ### Set up the python environment
 
 ```
